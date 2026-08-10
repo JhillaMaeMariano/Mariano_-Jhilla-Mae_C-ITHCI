@@ -1,0 +1,18 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        int age = 19;
+        string name = "Jhilla Mae Mariano";
+        double weight = 44;
+        double dec = .4;
+        bool Bool = true;
+        
+        Console.WriteLine (age);
+        Console.WriteLine (name);
+        Console.WriteLine (weight + dec);
+        Console.WriteLine (Bool);
+    }
+}
