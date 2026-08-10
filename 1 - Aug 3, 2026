@@ -1,0 +1,9 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine ("Hi! My name is Jhilla Mae Mariano. I'm 19 years old, and my favorite color is black.");
+    }
+}
